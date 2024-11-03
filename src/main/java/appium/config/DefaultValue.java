@@ -18,5 +18,5 @@ public class DefaultValue {
     public static final int TIME_SERVER = 30;
     public static final int TIME_DEFAULT = 5;
 
-    public static final int TIMEOUT_PRESENCE_OF_ELEMENT_LOCATED_SECONDS = 60;
+    public static final int TIMEOUT_PRESENCE_OF_ELEMENT_LOCATED_SECONDS = 30;
 }
